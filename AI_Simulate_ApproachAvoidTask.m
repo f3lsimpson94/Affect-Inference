@@ -10,6 +10,7 @@
 %
 %               Amended by: Katharina V. Wellstein, XX.2024
 %                           katharina.wellstein@newcastle.edu.au
+%                           Felicity M. Simpson 15.2025
 % -------------------------------------------------------------------------
 % This file is released under the terms of the GNU General Public Licence
 % (GPL), version 3. You can redistribute it and/or modify it under the
